@@ -1,0 +1,2 @@
+Estou testando a criacao de um arquivo de texto
+no CMD.
